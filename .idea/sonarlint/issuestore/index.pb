@@ -22,3 +22,9 @@ c
 3src/main/java/co/com/screenplay/project/ui/read.txt,0\a\0a1024ea5ede7e0e0ad80f27af29fb9edcf6451c
 j
 :src/main/java/co/com/screenplay/project/hooks/OpenWeb.java,0\a\0aac7d774b8a04d77c2dddf0134c02096f93d186
+a
+1src/main/java/co/com/screenplay/project/Main.java,e\e\ee7f0f11b34e59774a68a87a109eb2ec1c79c963
+u
+Esrc/test/java/co/com/screenplay/project/stepdefinition/hook/Hook.java,4\3\4377dd4b6137df1250f113c1ee8d6484bd252608
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
