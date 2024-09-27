@@ -70,3 +70,28 @@ Este proyecto sigue el patrón Screenplay utilizando Serenity BDD y Cucumber.
 - Los locators y otros elementos relacionados con las páginas están en la carpeta ui.
 - Los step definitions de Cucumber vinculan los archivos .feature con las Tasks y Questions de Screenplay.
 
+## Cambiar link de la pagina
+Ubicarse en el archivo de serenity.conf y en la linea 31 ubicar las enviroments, remplazar el link por el deseado
+```bash
+Project/
+│
+├── src/
+│   └── test/
+│       └── java/
+│           └── project/
+│               ├── resources/
+│               │   ├── features/
+│               │   │   ├── ExampleFeature.feature
+│               │   └── serenity.conf
+│
+///////////////////////////////
+environments {
+  default {
+    webdriver.base.url = "https://www.example.com//"
+  }
+   default {
+        webdriver.map.url = "https://www.example.com/"
+      }
+}
+```
+
