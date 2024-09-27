@@ -64,8 +64,9 @@ Project/
 ```
   Explicación
   
-Este proyecto sigue el patrón Screenplay utilizando Serenity BDD y Cucumber. En este flujo:
-Los tests se dividen en Tasks (acciones que los actores realizan) y Questions (verificaciones).
-Los locators y otros elementos relacionados con las páginas están en la carpeta ui.
-Los step definitions de Cucumber vinculan los archivos .feature con las Tasks y Questions de Screenplay.
+Este proyecto sigue el patrón Screenplay utilizando Serenity BDD y Cucumber. 
+
+- Los tests se dividen en Tasks (acciones que los actores realizan) y Questions (verificaciones).
+- Los locators y otros elementos relacionados con las páginas están en la carpeta ui.
+- Los step definitions de Cucumber vinculan los archivos .feature con las Tasks y Questions de Screenplay.
 
