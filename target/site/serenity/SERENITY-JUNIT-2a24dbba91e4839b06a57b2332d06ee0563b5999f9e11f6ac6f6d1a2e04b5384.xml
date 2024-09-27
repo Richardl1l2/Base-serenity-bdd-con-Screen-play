@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="Open a website" skipped="0" tests="1" time="26.84" timestamp="2024-09-24 07:27:22"><testcase name="Open the browser and go to the homepage"><failure message="&#13;&#10;Expected: a string containing &quot;Soluciones Financieras para Empresas - Banistmo Panamá&quot;&#13;&#10;     but: was &quot;Instagram&quot;" type="java.lang.AssertionError">&#13;
-Expected: a string containing "Soluciones Financieras para Empresas - Banistmo Panamá"&#13;
-     but: was "Instagram"</failure><system-err>&#13;
-Expected: a string containing "Soluciones Financieras para Empresas - Banistmo Panamá"&#13;
-     but: was "Instagram"&#13;
-co.com.screenplay.project.stepdefinition.hook.Hook.iOpenTheBrowser(Hook.java:30)&#13;
-✽."fede" I open the browser(file:///C:/Users/Richard/Desktop/Tester/Pruebas%20serenity%20bdd/projectbase/src/test/resources/features/openweb.feature:9)&#13;
-</system-err></testcase></testsuite>
